@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Doc ghi file XML/1.0.0": {
+        "runtime": {
+          "Doc ghi file XML.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doc ghi file XML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

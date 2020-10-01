@@ -1,0 +1,13 @@
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\bin\Debug\netcoreapp3.1\Sum File Text.exe
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\bin\Debug\netcoreapp3.1\Sum File Text.deps.json
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\bin\Debug\netcoreapp3.1\Sum File Text.runtimeconfig.json
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\bin\Debug\netcoreapp3.1\Sum File Text.runtimeconfig.dev.json
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\bin\Debug\netcoreapp3.1\Sum File Text.dll
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\bin\Debug\netcoreapp3.1\Sum File Text.pdb
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\obj\Debug\netcoreapp3.1\Sum File Text.csprojAssemblyReference.cache
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\obj\Debug\netcoreapp3.1\Sum File Text.AssemblyInfoInputs.cache
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\obj\Debug\netcoreapp3.1\Sum File Text.AssemblyInfo.cs
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\obj\Debug\netcoreapp3.1\Sum File Text.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\obj\Debug\netcoreapp3.1\Sum File Text.dll
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\obj\Debug\netcoreapp3.1\Sum File Text.pdb
+C:\ngocphuoc\File and Serialization CodeGym\Sum File Text\obj\Debug\netcoreapp3.1\Sum File Text.genruntimeconfig.cache

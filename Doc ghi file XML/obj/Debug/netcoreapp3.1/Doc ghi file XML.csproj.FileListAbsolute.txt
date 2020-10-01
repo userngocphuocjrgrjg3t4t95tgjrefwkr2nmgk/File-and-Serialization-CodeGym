@@ -1,0 +1,13 @@
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\bin\Debug\netcoreapp3.1\Doc ghi file XML.exe
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\bin\Debug\netcoreapp3.1\Doc ghi file XML.deps.json
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\bin\Debug\netcoreapp3.1\Doc ghi file XML.runtimeconfig.json
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\bin\Debug\netcoreapp3.1\Doc ghi file XML.runtimeconfig.dev.json
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\bin\Debug\netcoreapp3.1\Doc ghi file XML.dll
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\bin\Debug\netcoreapp3.1\Doc ghi file XML.pdb
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\obj\Debug\netcoreapp3.1\Doc ghi file XML.csprojAssemblyReference.cache
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\obj\Debug\netcoreapp3.1\Doc ghi file XML.AssemblyInfoInputs.cache
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\obj\Debug\netcoreapp3.1\Doc ghi file XML.AssemblyInfo.cs
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\obj\Debug\netcoreapp3.1\Doc ghi file XML.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\obj\Debug\netcoreapp3.1\Doc ghi file XML.dll
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\obj\Debug\netcoreapp3.1\Doc ghi file XML.pdb
+C:\ngocphuoc\File and Serialization CodeGym\Doc ghi file XML\obj\Debug\netcoreapp3.1\Doc ghi file XML.genruntimeconfig.cache
